@@ -8,4 +8,5 @@ re
 base64
 time
 PyPDF2
-
+Pillow
+torch
