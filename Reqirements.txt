@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pytesseract
+PIL
+re
+base64
+time
+PyPDF2
+sentence_transformers
