@@ -1,9 +1,9 @@
-sentence_transformers
 streamlit
 pandas
-numpy
-pytesseract
+sentence-transformers
+torch
 PyPDF2
 Pillow
-torch
+pytesseract
+numpy
 opencv-python-headless
