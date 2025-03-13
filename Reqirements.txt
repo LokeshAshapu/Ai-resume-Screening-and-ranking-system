@@ -3,10 +3,7 @@ streamlit
 pandas
 numpy
 pytesseract
-PIL
-re
-base64
-time
 PyPDF2
 Pillow
 torch
+opencv-python-headless
