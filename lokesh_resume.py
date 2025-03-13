@@ -81,7 +81,6 @@ def rank_resumes(job_description, resumes, file_names):
     results = pd.DataFrame({
         "Resume": file_names,
         "Similarity Score (%)": [round(score, 2) for score in absolute_scores],
-        "Experience Score": experience_scores,
         "Final Score (%)": [round(score, 2) for score in final_scores]
     })
     
