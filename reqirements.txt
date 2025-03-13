@@ -1,9 +1,0 @@
-streamlit
-pandas
-sentence-transformers
-torch
-PyPDF2
-Pillow
-pytesseract
-numpy
-opencv-python-headless
